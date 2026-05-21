@@ -8,3 +8,5 @@ I'm taking this course because it is mandatory for me to take it as a student.
 Some kind of cheat / FPS booster I can use in games.
 
 - vincent was here
+## Collaborator: Vincent
+when using AI tools, always remember to be very careful with it.
